@@ -1,8 +1,8 @@
 # Portfolio
 This portfolio comprises of examples of coding using R and Python
-* Cluster Analysis
-* Data Exploration
+* Cluster analysis
+* Data exploration
+* Data visualisation
+* Statistical data analysis
 * Simulating data
-* Data Visualisation
-* Building linear models
-* Building generalised linear models
+* Building a generalised linear model
